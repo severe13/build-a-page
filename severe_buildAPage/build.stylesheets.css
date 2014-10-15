@@ -1,0 +1,78 @@
+body {
+  background-color:#8B0000;
+  left margin: 0;
+  top margin: 0;
+  margin width: 0;
+  margin height: 0;
+  font-family: Helvetica, Arial, sans-serif
+}
+
+list {
+  color: black
+
+}
+
+table {
+  align: center;
+  font-weight: bold;
+  width: 100%;
+  border: 0;
+  cellspacing: 0;
+  cellpadding: 0;
+
+}
+
+hr {
+    width:50%;
+    color:silver;
+
+}
+
+
+
+a:link {
+      font-family: Helvetica, Arial, sans-serif;
+      font-size:16px;
+      color: #ff3f00;
+    }
+
+    a:visited {
+      color: #ff3f00;
+    }
+
+    a:hover {
+      color: #000000;
+    }
+
+    .image {
+       position: relative;
+       width: 100%; /* for IE 6 */
+    }
+
+    .border{
+      border:1px solid black;
+    }
+
+    .table-space-questions{
+      width:25%
+    }
+
+    .table-space-answers{
+      width:15%
+    }
+
+    .answer-space{
+      width:25%
+    }
+
+    .answer-title{
+      color:#ff3f00;
+      font-size:16px;
+      text-decoration:underline;
+      height:30px;
+    }
+
+    .answer-body{
+      font-size:14px;
+      color:#F5F5F5;
+    }
