@@ -7,9 +7,8 @@ body {
   font-family: Helvetica, Arial, sans-serif
 }
 
-list {
+li {
   color: black
-
 }
 
 table {
@@ -19,60 +18,56 @@ table {
   border: 0;
   cellspacing: 0;
   cellpadding: 0;
-
 }
 
 hr {
-    width:50%;
-    color:silver;
-
+  width:50%;
+  color:silver;
 }
 
-
-
 a:link {
-      font-family: Helvetica, Arial, sans-serif;
-      font-size:16px;
-      color: #ff3f00;
-    }
+  font-family: Helvetica, Arial, sans-serif;
+  font-size:16px;
+  color: #ff3f00;
+}
 
-    a:visited {
-      color: #ff3f00;
-    }
+a:visited {
+  color: #ff3f00;
+}
 
-    a:hover {
-      color: #000000;
-    }
+a:hover {
+  color: #000000;
+}
 
-    .image {
-       position: relative;
-       width: 100%; /* for IE 6 */
-    }
+.image {
+   position: relative;
+   width: 100%; /* for IE 6 */
+}
 
-    .border{
-      border:1px solid black;
-    }
+.border{
+  border:1px solid black;
+}
 
-    .table-space-questions{
-      width:25%
-    }
+.table-space-questions{
+  width:25%
+}
 
-    .table-space-answers{
-      width:15%
-    }
+.table-space-answers{
+  width:15%
+}
 
-    .answer-space{
-      width:25%
-    }
+.answer-space{
+  width:25%
+}
 
-    .answer-title{
-      color:#ff3f00;
-      font-size:16px;
-      text-decoration:underline;
-      height:30px;
-    }
+.answer-title{
+  color:#ff3f00;
+  font-size:16px;
+  text-decoration:underline;
+  height:30px;
+}
 
-    .answer-body{
-      font-size:14px;
-      color:#F5F5F5;
-    }
+.answer-body{
+  font-size:14px;
+  color:#F5F5F5;
+}
